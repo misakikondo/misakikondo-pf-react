@@ -9,3 +9,16 @@
   cursor: pointer;
   margin-left: 20px;
 }
+
+.common-container,
+.contacts-container{
+  width: 100vw;
+  padding-top: 70px;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
+}
+
+.contacts-container{
+  margin-bottom: 400px;
+}

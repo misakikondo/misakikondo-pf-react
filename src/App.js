@@ -18,10 +18,10 @@ function App() {
       </header>
 
       <main>
-        <div class='common-container' id='private-works-id'><Works/></div>
-        <div class='common-container' id='private-works-id'><About/></div>
-        <div class='common-container' id='private-works-id'><Skills/></div>
-        <div class='common-container' id='private-works-id'><Contacts/></div>
+        <div className='common-container' id='private-works-id'><Works/></div>
+        <div className='common-container' id='private-works-id'><About/></div>
+        <div className='common-container' id='private-works-id'><Skills/></div>
+        <div className='contacts-container' id='private-works-id'><Contacts/></div>
       </main>
 
       <footer>
