@@ -1,0 +1,33 @@
+.sub-title {
+  padding: 50px 30px;
+}
+
+h2 {
+  font-size: 15px;
+  font-weight: 100;
+}
+
+a {
+  color: black;
+}
+
+.contacts-explain {
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.form-container {
+  display: flex;
+  justify-content: center;
+}
+
+.google,
+.mail{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.back-container {
+  padding-top: 130px;
+  cursor: pointer;
+}
