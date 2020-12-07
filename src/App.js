@@ -1,9 +1,9 @@
 import './App.css';
 import Menu from "./components/menu/Menu.jsx";
-// import Works from "./components/works/Works.jsx";
-// import About from "./components/about/About.jsx";
-// import Skills from "./components/skills/Skills.jsx";
-// import Contacts from "./components/contacts/Contacts.jsx";
+import Works from "./components/works/Works.jsx";
+import About from "./components/about/About.jsx";
+import Skills from "./components/skills/Skills.jsx";
+import Contacts from "./components/contacts/Contacts.jsx";
 import Footer from "./components/footer/Footer.jsx";
 
 function App() {
@@ -17,12 +17,12 @@ function App() {
           <Menu/></div>
       </header>
 
-      {/* <main>
+      <main>
         <div class='common-container' id='private-works-id'><Works/></div>
         <div class='common-container' id='private-works-id'><About/></div>
         <div class='common-container' id='private-works-id'><Skills/></div>
         <div class='common-container' id='private-works-id'><Contacts/></div>
-      </main> */}
+      </main>
 
       <footer>
         <Footer/>
