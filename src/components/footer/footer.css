@@ -1,0 +1,21 @@
+.footer-container {
+  margin-left: 20px;
+}
+
+.icons {
+  margin-left: 30px;
+  padding-top: 30px;
+}
+
+i {
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  transition: .3s;
+  -webkit-transform: scale(1);
+  transform: scale(1);
+}
+i:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
