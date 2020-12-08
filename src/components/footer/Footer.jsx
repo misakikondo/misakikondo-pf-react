@@ -4,7 +4,7 @@ import "./footer.css";
 export default function Footer() {
   return (
     <div>
-      <div className='footer-container'>
+      <div className='icons'>
         <a href='https://github.com/misakikondo'>
           <i href='https://github.com/misakikondo' target="_blank" rel="noopener noreferrer"
           className='fab fa-github fa-3x iconcolor'></i>

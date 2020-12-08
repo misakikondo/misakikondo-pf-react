@@ -1,13 +1,11 @@
-.footer-container {
-  margin-left: 20px;
-}
-
 .icons {
   margin-left: 30px;
   padding-top: 30px;
 }
 
 i {
+  margin-left: 10px;
+  margin-bottom: 10px;
   text-decoration: none;
   color: black;
   display: inline-block;
