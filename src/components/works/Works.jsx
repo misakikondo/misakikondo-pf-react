@@ -1,5 +1,9 @@
 import React from "react";
 import "./works.css";
+import pfimg from "../../images/mypf.png"
+import veganappimg from "../../images/veganapp.png"
+import furimaimg from "../../images/furima.png"
+
 
 export default function Works() {
   return (
@@ -8,7 +12,7 @@ export default function Works() {
 
       <div className='works-container'>
         <div className='my-image'>
-          {/* <img src="images/mypf.png" class='pf-img'> */}
+          <img src={pfimg} className='pf-img'/>
         </div>
         <div className='explain'>
           <h2 className='explain-container'>portfolio site (2020/11)<br/>
@@ -23,7 +27,7 @@ export default function Works() {
 
       <div className='works-container'>
         <div className='my-image'>
-          {/* <img src="images/veganapp.png" class='pf-img'> */}
+          <img src={veganappimg} className='pf-img'/>
         </div>
         <div className='explain'>
           <h2 className='explain-container'>Vegan Beginner (2020/10)<br/>
@@ -42,7 +46,7 @@ export default function Works() {
       
       <div className='works-container'>
         <div className='my-image'>
-          {/* <img src='images/furima.png' className='pf-img'> */}
+          <img src={furimaimg} className='pf-img'/>
         </div>
         <div className='explain'>
           <h2 className='explain-container'>Furima (2020/9)<br/>
