@@ -6,7 +6,7 @@ export default function Top() {
   return (
     <div>
       <div className= "top-img-container">
-        <img src={topimg} className='top-img'/>
+        <img alt="picture" src={topimg} className='top-img'/>
       </div>
     </div>
   );

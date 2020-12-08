@@ -8,7 +8,7 @@ export default function About() {
       <h1 className='sub-title'>about</h1>
       <div className='about-container'>
         <div className='my-image'>
-          <img src={meimg} className='me-img'/>
+          <img alt="picture" src={meimg} className='me-img'/>
         </div>
         <div className='explain'>
           <h2 className='explain-container'>近藤 未咲 1991年生まれ（29歳)<br/>
