@@ -12,7 +12,7 @@ export default function Works() {
 
       <div className='works-container'>
         <div className='my-image'>
-          <img alt="picture" src={pfimg} className='pf-img'/>
+          <img alt="" src={pfimg} className='pf-img'/>
         </div>
         <div className='explain'>
           <h2 className='explain-container'>portfolio site (2020/11)<br/>
@@ -27,7 +27,7 @@ export default function Works() {
 
       <div className='works-container'>
         <div className='my-image'>
-          <img alt="picture" src={veganappimg} className='pf-img'/>
+          <img alt="" src={veganappimg} className='pf-img'/>
         </div>
         <div className='explain'>
           <h2 className='explain-container'>Vegan Beginner (2020/10)<br/>
@@ -46,7 +46,7 @@ export default function Works() {
       
       <div className='works-container'>
         <div className='my-image'>
-          <img alt="picture" src={furimaimg} className='pf-img'/>
+          <img alt="" src={furimaimg} className='pf-img'/>
         </div>
         <div className='explain'>
           <h2 className='explain-container'>Furima (2020/9)<br/>
