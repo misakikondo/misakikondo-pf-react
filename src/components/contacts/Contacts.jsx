@@ -1,7 +1,14 @@
 import React from "react";
+import { animateScroll as scroll } from 'react-scroll';
 import "./contacts.css";
 
 export default function Contacts() {
+
+
+function scrollToTop(){
+  scroll.scrollToTop(); 
+};
+
   return (
     <div>
       <h1 className="sub-title">contacts</h1>
@@ -21,8 +28,9 @@ export default function Contacts() {
       </div>
       
       <div className="back-container">
-        <h2 id="back-top-btn">上部に戻る</h2>
+        <h2 onClick={scrollToTop} id="back-top-btn">上部に戻る</h2>
       </div>
     </div>
   );
+
 }

@@ -2,11 +2,15 @@
   margin-right: 30px;
   }
   
-  ul {
+  menu {
   display: flex;
   text-decoration: none;
   list-style: none;
   padding-top: 10px;
+  }
+
+  menu > .active {
+    border-bottom: 3px solid #C06C84;
   }
   
   li {
@@ -27,5 +31,5 @@
   font-size: 30px;
   font-family: 'Ubuntu', sans-serif;
   cursor: pointer;
-  font-weight: 300;
+  font-weight: 700;
   }
