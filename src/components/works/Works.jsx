@@ -24,14 +24,14 @@ export default function Works() {
           </h2>
         </div>
       </div>
-
+      
       <div className='works-container'>
         <div className='my-image'>
           <img alt="" src={veganappimg} className='pf-img'/>
         </div>
         <div className='explain'>
           <h2 className='explain-container'>Vegan Beginner (2020/10)<br/>
-            {/* <a href = 'https://veganapp-0718.herokuapp.com/'>https://veganapp-0718.herokuapp.com/<a><br/> */}
+            <a href = 'https://veganapp-0718.herokuapp.com/'>https://veganapp-0718.herokuapp.com/</a><br/>
               <br/>
               ヴィーガンを生活に取り入れる活動を支援する、レシピ投稿サイト。<br/>
               レシピを検索したり、マイページでお気に入りのレシピを管理する事ができます。<br/>
@@ -50,7 +50,7 @@ export default function Works() {
         </div>
         <div className='explain'>
           <h2 className='explain-container'>Furima (2020/9)<br/>
-            {/* <a href = "https://furima-29688.herokuapp.com/">https://furima-29688.herokuapp.com/<a><br/> */}
+            <a href = "https://furima-29688.herokuapp.com/">https://furima-29688.herokuapp.com/</a><br/>
               <br/>
               テックキャンプ 最終課題で作成したフリマアプリサイト。<br/>
               ログイン・出品・編集/削除・購入機能や、コメント機能が備わっています。<br/>

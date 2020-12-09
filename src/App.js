@@ -29,7 +29,7 @@ function App() {
         <div className='common-container' id='private-works-id'><Works/></div>
         <div className='common-container' id='private-about-id'><About/></div>
         <div className='common-container' id='private-skills-id'><Skills/></div>
-        <div className='contacts-container' id='private-contacts-id'><Contacts/></div>
+        <div className='common-container' id='private-contacts-id'><Contacts/></div>
       </main>
 
       <footer className='footer-container'>

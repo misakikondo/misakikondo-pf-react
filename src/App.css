@@ -1,3 +1,21 @@
+.sub-title {
+  padding: 30px 20px;
+}
+
+h2 {
+  font-size: 15px;
+  font-weight: 100;
+}
+
+a {
+  color: black;
+}
+
+
+.App{
+  background-color:  #F0EFE8;
+}
+
 .App-header{
   display: flex;
   justify-content: space-between;
@@ -5,34 +23,27 @@
   top: 0;
   z-index: 9999;
   width: 100%;
-  background-color: white;
+  background-color:  #F0EFE8;
 }
 
 .title-font{
   font-family: 'Ubuntu', sans-serif;
-  font-size: 50px;
+  font-size: 40px;
   cursor: pointer;
   margin-left: 20px;
 }
 
-.common-container,
-.contacts-container{
+.common-container{
   width: 100vw;
-  padding-top: 70px;
+  height: 100%;
+  padding-top: 80px;
   text-align: center;
   font-family: 'Ubuntu', sans-serif;
   font-weight: 300;
 }
 
-.contacts-container{
-  margin-bottom: 300px;
-}
-
 .footer-container{
-    position: fixed;
-    width:100%;
-    height:100px;
-    bottom:0;
-    z-index: 1000;
-    background-color:white;
+  width:100%;
+  height:90px;
+  background-color: #F0EFE8;
 }

@@ -10,7 +10,7 @@ function scrollToTop(){
 };
 
   return (
-    <div>
+    <div className='contacts'>
       <h1 className="sub-title">contacts</h1>
       <h2 className="contacts-explain">お問い合わせフォーム</h2>
       <div className="form-container">
