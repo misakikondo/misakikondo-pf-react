@@ -10,7 +10,7 @@
   }
 
   menu > .active {
-    border-bottom: 4px solid #C06C84;
+    background:linear-gradient(transparent 60%, #D87F81 60%);
   }
   
   li {
