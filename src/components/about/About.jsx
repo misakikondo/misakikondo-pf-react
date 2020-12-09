@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import meimg from "../../images/me-min.jpg"
+import meimg from "../../images/me.png"
 
 export default function About() {
   return (
