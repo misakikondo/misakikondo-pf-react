@@ -1,18 +1,52 @@
-.sub-title {
-  padding: 50px 30px;
+.skills-list{
+  display: flex;
+  justify-content: center;
 }
 
-h2 {
-  font-size: 15px;
-  font-weight: 100;
+.list h1 {
+  font-size: 18px;
+}
+.list h2{
+  font-size: 12px;
 }
 
-a {
-  color: black;
+.list{
+  color: #fff;
+  padding: 4%;
+  width: 170px;
+  height: 130px;
+  margin: 0 -15px;
+  mix-blend-mode: multiply;
 }
 
-.skills-container {
-  text-align: center;
-  font-size: 20px;
-  height: 330px;
+#list1 {
+  background: #EAB595;
+  border-radius: 50% 50% 50% 70%/50% 50% 70% 60%;
+}
+#list2 {
+  background: #D87F81;
+  border-radius: 80% 30% 50% 50%/50%;
+}
+#list3 {
+  background: #AE6378;
+  border-radius: 40% 40% 50% 40%/30% 50% 50% 50%;
+}
+
+#list4 {
+  background: #737955;
+  border-radius: 50% 50% 50% 70%/50% 50% 70% 60%;
+}
+
+#list5 {
+  background: #C8C6B1;
+  border-radius: 80% 30% 50% 50%/50%;
+}
+
+#list6 {
+  background: #4E575C;
+  border-radius: 40% 40% 50% 40%/30% 50% 50% 50%;
+}
+
+.experienced{
+  padding-top: 10px;
 }
