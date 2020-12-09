@@ -25,7 +25,7 @@ function App() {
       </header>
 
       <main>
-        <div className='common-container' id='private-top-id'><Top/></div>
+        <div className='top-container' id='private-top-id'><Top/></div>
         <div className='common-container' id='private-works-id'><Works/></div>
         <div className='common-container' id='private-about-id'><About/></div>
         <div className='common-container' id='private-skills-id'><Skills/></div>
