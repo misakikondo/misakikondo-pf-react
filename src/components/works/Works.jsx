@@ -17,7 +17,8 @@ export default function Works() {
         <div className='explain'>
           <h2 className='explain-container'>portfolio site (2020/11)<br/>
               <br/>
-              個人の制作実績や、SNSなどの情報をまとまるために、ポートフォリオを作成しました。<br/>
+              個人の制作実績やスキルをまとまるために、ポートフォリオを作成しました。<br/>
+              （2020/12）React.jsを使いリニューアルを行いました。<br/>
               <br/>
               開発言語: HTML/CSS/Javascript<br/>
               フレームワーク: React.js<br/>
