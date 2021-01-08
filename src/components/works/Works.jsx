@@ -6,6 +6,12 @@ import furimaimg from "../../images/furima.png"
 
 
 export default function Works() {
+  // const subTitle = document.querySelector('.sub-title');
+  // const cb = function () {
+  //   alert('hello');
+  // }
+  // const io = new IntersectionObserver(cb);
+  // io.observe(subTitle);
   return (
     <div>
       <h1 className='sub-title'>private works</h1>
