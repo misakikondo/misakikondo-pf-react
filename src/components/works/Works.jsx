@@ -46,7 +46,7 @@ export default function Works() {
               （レスポンシブデザイン対応）<br/>
               <br/>
               開発言語: HTML/CSS/Javascript/Ruby<br/>
-              フレームワーク: RubyonRails<br/>
+              フレームワーク: Ruby on Rails<br/>
           </h2>
         </div>
       </div>
@@ -67,7 +67,7 @@ export default function Works() {
               ID：misaki / PASS：1111<br/>
               <br/>
               開発言語: HTML/CSS/Javascript/Ruby<br/>
-              フレームワーク: RubyonRails<br/>
+              フレームワーク: Ruby on Rails<br/>
           </h2>
         </div>
       </div>
