@@ -96,7 +96,7 @@ export default function Skills() {
 
       <div className='experienced'>
         Experienced<br/>
-        jQuery/MySQL/Git/AWS(S3)/Heroku<br/>
+        jQuery/MySQL/Git/AWS(S3)/Heroku/Illustrator/Photoshop<br/>
       </div>
 
     </div>

@@ -23,10 +23,21 @@ export default function About() {
           <br/>
           趣味：英会話・サーフィン・スノーボード・アクセサリー作り・動画編集<br/>
           <br/>
-          関連リンク
-          <a href="https://www.wantedly.com/users/143261148?profile_v1=true" target="_blank" rel="noopener noreferrer">Wantedly</a>/
-          <a href="https://github.com/misakikondo" target="_blank" rel="noopener noreferrer">Github</a>
           </h2>
+          <div className='icons'>
+            <a href='https://github.com/misakikondo'>
+              <i href='https://github.com/misakikondo' target="_blank" rel="noopener noreferrer"
+              className='fab fa-github fa-2x iconcolor'></i>
+            </a>
+            <a href='https://www.instagram.com/misaki_was_here/'>
+              <i href='https://www.instagram.com/misaki_was_here/' target='_blank' rel='noopener noreferrer' 
+              className='fab fa-instagram fa-2x iconcolor'></i>
+            </a>
+            <a href='https://www.youtube.com/channel/UCZ8ZHxoYV_AnWrKCC6456Tw/'>
+              <i href='https://www.youtube.com/channel/UCZ8ZHxoYV_AnWrKCC6456Tw/' target='_blank' rel='noopener noreferrer' 
+              className='fab fa-youtube fa-2x iconcolor'></i>
+            </a>
+          </div>
         </div>
       </div>
     </div>

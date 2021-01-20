@@ -27,7 +27,7 @@ function scrollToTop(){
       </div>
       
       <div className="back-container">
-        <h2 onClick={scrollToTop} id="back-top-btn">上部に戻る</h2>
+        <h2 onClick={scrollToTop} id="back-top-btn">Back to Top</h2>
       </div>
     </div>
   );

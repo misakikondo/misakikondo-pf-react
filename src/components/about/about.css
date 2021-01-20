@@ -7,7 +7,6 @@
   text-align: left;
   width: 600px;
   padding-left: 10px;
-  padding-bottom: 120px;
 }
 
 .explain {
@@ -20,4 +19,24 @@
 
 .pf-img {
   width: 400px;
+}
+
+.icons {
+  text-align: left;
+  padding-bottom: 200px;
+}
+
+i {
+  margin-left: 10px;
+  margin-bottom: 10px;
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  transition: .3s;
+  -webkit-transform: scale(1);
+  transform: scale(1);
+}
+i:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
 }
