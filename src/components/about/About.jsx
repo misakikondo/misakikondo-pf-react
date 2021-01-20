@@ -17,11 +17,11 @@ export default function About() {
           テックキャンプ 丸の内校 2020年卒<br/>
           <br/>
           スノーボードグッズの販売員と営業事務を経験してきた中で、<br/>
-          自分のアイディアが活かせ、成長し続けることができる仕事がしたい<br/>
+          自分のアイディアが活かし、成長し続けることができる仕事がしたい<br/>
           と思うようになり、テックキャンプでプログラミングを学ぶ。<br/>
           現在は転職活動をしながら自走力を活かし、JavaScript・React.jsを学習中。<br/>
           <br/>
-          趣味：英会話・サーフィン・スノーボード・アクセサリー作り・動画編集<br/>
+          休日の過ごし方：アクセサリー作り・note執筆・動画編集・スケートボード・サーフィン<br/>
           <br/>
           </h2>
           <div className='icons'>
@@ -29,13 +29,17 @@ export default function About() {
               <i href='https://github.com/misakikondo' target="_blank" rel="noopener noreferrer"
               className='fab fa-github fa-2x iconcolor'></i>
             </a>
-            <a href='https://www.instagram.com/misaki_was_here/'>
-              <i href='https://www.instagram.com/misaki_was_here/' target='_blank' rel='noopener noreferrer' 
+            <a href='https://www.instagram.com/misaki_creates_something/'>
+              <i href='https://www.instagram.com/misaki_creates_something/' target='_blank' rel='noopener noreferrer' 
               className='fab fa-instagram fa-2x iconcolor'></i>
             </a>
             <a href='https://www.youtube.com/channel/UCZ8ZHxoYV_AnWrKCC6456Tw/'>
               <i href='https://www.youtube.com/channel/UCZ8ZHxoYV_AnWrKCC6456Tw/' target='_blank' rel='noopener noreferrer' 
               className='fab fa-youtube fa-2x iconcolor'></i>
+            </a>
+            <a href='https://note.com/misaki_kondo'>
+              <i href='https://note.com/misaki_kondo' target='_blank' rel='noopener noreferrer' 
+              className='fas fa-blog fa-2x iconcolor'></i>
             </a>
           </div>
         </div>
