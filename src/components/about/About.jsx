@@ -26,16 +26,16 @@ export default function About() {
           </h2>
           <div className='icons'>
             <a href='https://github.com/misakikondo' target='_blank' rel='noopener noreferrer'>
-              <i href='https://github.com/misakikondo' className='fab fa-github fa-2x iconcolor'></i>
+              <i className='fab fa-github fa-2x iconcolor'></i>
             </a>
             <a href='https://www.instagram.com/misaki_creates_something/' target='_blank' rel='noopener noreferrer'>
-              <i href='https://www.instagram.com/misaki_creates_something/' className='fab fa-instagram fa-2x iconcolor'></i>
+              <i className='fab fa-instagram fa-2x iconcolor'></i>
             </a>
             <a href='https://www.youtube.com/channel/UCZ8ZHxoYV_AnWrKCC6456Tw/' target='_blank' rel='noopener noreferrer'>
-              <i href='https://www.youtube.com/channel/UCZ8ZHxoYV_AnWrKCC6456Tw/' className='fab fa-youtube fa-2x iconcolor'></i>
+              <i className='fab fa-youtube fa-2x iconcolor'></i>
             </a>
             <a href='https://note.com/misaki_kondo' target='_blank' rel='noopener noreferrer'>
-              <i href='https://note.com/misaki_kondo' className='fas fa-blog fa-2x iconcolor'></i>
+              <i className='fas fa-blog fa-2x iconcolor'></i>
             </a>
           </div>
         </div>
