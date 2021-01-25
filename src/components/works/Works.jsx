@@ -49,6 +49,7 @@ export default function Works() {
             <br/>
             開発言語: HTML/CSS/Javascript/Ruby<br/>
             フレームワーク: Ruby on Rails<br/>
+            <a href="https://github.com/misakikondo/vegan-app" target="_blank" rel="noopener noreferrer">README</a>
           </h2>
         </div>
       </div>
@@ -72,6 +73,7 @@ export default function Works() {
             <br/>
             開発言語: HTML/CSS/Javascript/Ruby<br/>
             フレームワーク: Ruby on Rails<br/>
+            <a href="https://github.com/misakikondo/furima-29688" target="_blank" rel="noopener noreferrer">README</a>
           </h2>
         </div>
       </div>
