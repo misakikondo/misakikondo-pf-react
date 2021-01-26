@@ -1,6 +1,6 @@
 import React from "react";
 import "./top.css";
-import topimg from "../../images/top-img.png"
+import topimg from "../../images/top.gif"
 
 export default function Top() {
   return (
