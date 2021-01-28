@@ -6,7 +6,7 @@ import About from "./components/about/About.jsx";
 import Skills from "./components/skills/Skills.jsx";
 import Contacts from "./components/contacts/Contacts.jsx";
 import Footer from "./components/footer/Footer.jsx";
-import Photo from "./components/photo/Photo.jsx";
+// import Photo from "./components/photo/Photo.jsx";
 import { animateScroll as scroll } from 'react-scroll';
 
 function App() {
