@@ -85,7 +85,7 @@ export default function Works() {
 
           <div className='illust-container'>
             <h2 className='illustration-works-title'>illustration</h2>
-            <a>
+            <a href='blank' target="_blank" rel="noopener noreferrer">
               <i><img alt='' src={illustrationlink} className='illustration-link-pic'/></i>
             </a>
           </div>
