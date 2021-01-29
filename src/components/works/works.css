@@ -7,3 +7,24 @@
 .pf-img {
   width: 400px;
 }
+
+.other-works-container {
+  display: flex;
+  justify-content:space-evenly;
+}
+
+.photo-works-title {
+  padding-bottom: 20px;
+}
+
+.photo-link-pic {
+  height: 250px;
+}
+
+.illustration-works-title {
+  padding-bottom: 40px;
+}
+
+.illustration-link-pic {
+  height: 200px;
+}

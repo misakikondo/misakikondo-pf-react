@@ -3,9 +3,12 @@ import "./works.css";
 import pfimg from "../../images/mypf.png"
 import veganappimg from "../../images/veganapp.png"
 import furimaimg from "../../images/furima.png"
-
+import photolink from "../../images/photolink.png"
+import illustrationlink from "../../images/illustrationlink.png"
+// import Photo from '../photo/Photo.jsx';
 
 export default function Works() {
+
   return (
     <div>
       <h1 className='sub-title'>private web works</h1>
@@ -70,6 +73,23 @@ export default function Works() {
           </h2>
         </div>
       </div>
+
+      <h1 className='sub-title'>other works</h1>
+        <div className='other-works-container'>
+          <div className='photo-container'>
+            <h2 className='photo-works-title'>photography</h2>
+            <a href='https://misakikondo.vercel.app/' target="_blank" rel="noopener noreferrer">
+              <i><img alt='' src={photolink} className='photo-link-pic'/></i>
+            </a>
+          </div>
+
+          <div className='illust-container'>
+            <h2 className='illustration-works-title'>illustration</h2>
+            <a>
+              <i><img alt='' src={illustrationlink} className='illustration-link-pic'/></i>
+            </a>
+          </div>
+        </div>
     </div>
   );
 }
