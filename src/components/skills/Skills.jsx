@@ -78,7 +78,7 @@ export default function Skills() {
             </h2>
           </div>
           <div className='list' id='list6'>
-            <h1>React.js</h1>
+            <h1>React.js/VueCLI</h1>
             <div className="rating">
               <i className="fa fa-star"></i>
               <i className="fa fa-star"></i>
