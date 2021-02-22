@@ -1,10 +1,10 @@
 import React from "react";
 import "./works.css";
-import pfimg from "../../images/mypf.png"
-import veganappimg from "../../images/veganapp.png"
-import furimaimg from "../../images/furima.png"
+import pfimg from "../../images/mypf.jpg"
+import veganappimg from "../../images/veganapp.jpg"
+import furimaimg from "../../images/furima.jpg"
 import photolink from "../../images/photolink.png"
-import illustrationlink from "../../images/illustrationlink.png"
+import comingsoonlink from "../../images/comingsoon.gif"
 // import Photo from '../photo/Photo.jsx';
 
 export default function Works() {
@@ -86,7 +86,7 @@ export default function Works() {
           <div className='illust-container'>
             <h2 className='illustration-works-title'>illustration</h2>
             <a href='blank' target="_blank" rel="noopener noreferrer">
-              <i><img alt='' src={illustrationlink} className='illustration-link-pic'/></i>
+              <i><img alt='' src={comingsoonlink} className='illustration-link-pic'/></i>
             </a>
           </div>
         </div>
