@@ -1,11 +1,13 @@
-.works-container {
+.works-big-container {
   display: flex;
-  justify-content: center;
-  height: 250px;
+  justify-content: space-around;
+}
+.works-container {
+  height: 400px;
 }
 
-.pf-img {
-  width: 400px;
+.pf-img{
+  cursor: pointer;
 }
 
 .other-works-container {
